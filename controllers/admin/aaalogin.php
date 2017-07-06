@@ -17,6 +17,7 @@
 		{
 
 #branch test.
+#branch change.
 			 if($this->session->userdata('admin_id') != "") {
 
 			 // redirect(base_url()."login/index/dashboard.html");
