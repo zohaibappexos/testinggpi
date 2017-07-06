@@ -13,7 +13,7 @@
 
 		    $this->load->view('layout/layout',$data);
 
-	  }
+	  }//this is my coomitdddd
        function aboutus_view_leadership()
 
 	  {
