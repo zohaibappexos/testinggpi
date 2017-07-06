@@ -3,7 +3,7 @@
   class aboutus extends CI_Controller
 
   {
-
+//this is my coomit
 
 	  function aboutus_view($id)
 
